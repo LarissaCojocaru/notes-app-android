@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!-- ⭐ Buton favorite în toolbar -->
+    <item
+        android:id="@+id/action_favorite"
+        android:icon="@drawable/ic_star_toolbar"
+        android:title="Favorite"
+        app:showAsAction="always" />
+
+    <!-- 🎨 Meniu pentru schimbare temă -->
+    <item
+        android:id="@+id/action_theme"
+        android:title="Temă"
+        app:showAsAction="never" />
+</menu>

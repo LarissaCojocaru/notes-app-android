@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Tema de bază a aplicației -->
+    <style name="Theme.NotesApp2" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Poți personaliza culorile și atributele aici -->
+        <!-- Exemplu: -->
+        <!-- <item name="colorPrimary">@color/purple_500</item> -->
+        <!-- <item name="colorSecondary">@color/teal_200</item> -->
+    </style>
+</resources>
